@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+
+  <!-- Due to a possible lengthy document, use the find feature of your IDE to look for the album. -->
+  <!-- Best searches: id="(id)", <name>(name)</name>, <author>(author)</author> -->
+
+  <album id="78ayrnnnn89a79y89aqye7h978fdgs">
+    <author>Stelladraco27</author>
+    <contributors>
+      <handle>stelladraco27</handle>
+      <handle>antaresblaze58</handle>
+      <handle>stellablaze78</handle>
+      <handle>fluff.butt</handle>
+      <handle>somedude69</handle>
+    </contributors>
+    <lastUpdated>
+      <date>07/27/2002</date>
+      <time>12:12</time>
+    </lastUpdated>
+    <name>images</name>
+    <status>public</status>
+    <views>5000</views>
+    <id>78ayrnnnn89a79y89aqye7h978fdgs</id>
+    <tags>
+      <tag>test1</tag>
+      <tag>test2</tag>
+      <tag>test3</tag>
+      <tag>test4</tag>
+      <tag>test5</tag>
+      <tag>test6</tag>
+    </tags>
+  </album>
+
+
+  <album id="ariyy378945nqd09ust97869w8yn7y">
+    <author>Stelladraco27</author>
+    <contributors>
+      <handle>stelladraco27</handle>
+      <handle>antaresblaze58</handle>
+      <handle>stellablaze78</handle>
+      <handle>fluff.butt</handle>
+      <handle>somedude69</handle>
+    </contributors>
+    <lastUpdated>
+      <date>07/27/2002</date>
+      <time>12:12</time>
+    </lastUpdated>
+    <name>videos</name>
+    <status>public</status>
+    <views>5000</views>
+    <id>ariyy378945nqd09ust97869w8yn7y</id>
+    <tags>
+      <tag>test1</tag>
+      <tag>test2</tag>
+      <tag>test3</tag>
+      <tag>test4</tag>
+      <tag>test5</tag>
+      <tag>test6</tag>
+    </tags>
+  </album>
+
+
+  <album id="ah58djgleu7djfm8vhHAUirgn67392">
+    <author>Stelladraco27</author>
+    <contributors>
+      <handle>stelladraco27</handle>
+      <handle>antaresblaze58</handle>
+      <handle>stellablaze78</handle>
+      <handle>fluff.butt</handle>
+      <handle>somedude69</handle>
+    </contributors>
+    <lastUpdated>
+      <date>07/27/2002</date>
+      <time>12:12</time>
+    </lastUpdated>
+    <name>flash</name>
+    <status>public</status>
+    <views>5000</views>
+    <id>ah58djgleu7djfm8vhHAUirgn67392</id>
+    <tags>
+      <tag>test1</tag>
+      <tag>test2</tag>
+      <tag>test3</tag>
+      <tag>test4</tag>
+      <tag>test5</tag>
+      <tag>test6</tag>
+    </tags>
+  </album>
+</xml>

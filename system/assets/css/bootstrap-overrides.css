@@ -1,0 +1,16 @@
+.no-curve {
+  border-radius: 0px;
+}
+
+.no-margin {
+  margin: 0px;
+}
+
+.btn-spacing {
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+.list-no-margin {
+  margin: 0;
+}

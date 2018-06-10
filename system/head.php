@@ -11,5 +11,5 @@ require($_SERVER['DOCUMENT_ROOT'] . "/system/header/aquatic.php");
 require($_SERVER['DOCUMENT_ROOT'] . "/system/header/fonts.php");
 require($_SERVER['DOCUMENT_ROOT'] . "/system/header/webIcons.php");
 
-$domain = "http://aquatic-staging.herokuapp.com";
+$domain = "http://stellaapcspfinalproject.herokuapp.com";
 ?>

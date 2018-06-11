@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <title>Aquatic File Info</title>
+    <title>Lorem ipsum File Info</title>
     <?php require($_SERVER['DOCUMENT_ROOT'] . "/system/head.php"); ?>
   </head>
   <body>

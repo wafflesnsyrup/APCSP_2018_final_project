@@ -2,7 +2,7 @@
   <div class="jumbotron bac-light no-margin shadow-in no-curve">
     <div class="row">
       <div class="col-sm-4">
-        <h2 class="white"><b>aquatic</b>.rocks</h2>
+        <h2 class="white">Website Name</h2>
         <a href="/index.php">home</a> |
         <a href="#">about</a> |
         <a href="#">help</a> |

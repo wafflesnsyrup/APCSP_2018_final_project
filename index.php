@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <title></title>
+    <title>Lorem ipsum Home</title>
     <?php require($_SERVER['DOCUMENT_ROOT'] . "/system/head.php"); ?>
   </head>
   <body>

@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <title>Aquatic Album Info</title>
+    <title>Lorem ipsum Album Info</title>
     <?php require($_SERVER['DOCUMENT_ROOT'] . "/system/head.php"); ?>
   </head>
   <body>
